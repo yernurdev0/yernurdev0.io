@@ -1,0 +1,1 @@
+# paralax-slider-gallery
